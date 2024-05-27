@@ -3,7 +3,7 @@ MAX_USERS = 3
 MAX_GPT_TOKENS = 120
 COUNT_LAST_MSG = 4
 
-LOGS = f'pythonProject8/logs.txt'  # файл для логов
+LOGS = f'/home/student/lol/logs.txt'  # файл для логов
 DB_FILE = f'pythonProject8/messages.db'  # файл для базы данных
 
 IAM_TOKEN = "t1.9euelZqckc2alJeczJLHk86bj4qVyO3rnpWazMjHm57Nx4ubjZuWiZOVnIzl8_ctZy1N-e9lEGcm_t3z920VK03572UQZyb-zef1656VmsuQy5aWjpeWmZDOz5iQnJya7_zF656VmsuQy5aWjpeWmZDOz5iQnJyaveuelZqLlpHOlJmWm5KSlZ2PmouZm7XehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.W3czOTA9-KLfKsMdADKJ7uSiCL67QCKSR7K5iiK8pl0B-rq7xbd0qzeFypV4YSRqK0VQBUWy6OHyyIjUjeNBAg"
