@@ -6,7 +6,7 @@ COUNT_LAST_MSG = 4
 LOGS = f'pythonProject8/logs.txt'  # файл для логов
 DB_FILE = f'pythonProject8/messages.db'  # файл для базы данных
 
-IAM_TOKEN = "t1.9euelZqXjJKQmMmcyMiLlZGNjI-YjO3rnpWazMjHm57Nx4ubjZuWiZOVnIzl9PdkTjhN-e8lFFTG3fT3JH01TfnvJRRUxs3n9euelZrIj8iUxpiVl4yejYqcx5aVk-_8xeuelZrIj8iUxpiVl4yejYqcx5aVk73rnpWax5DIyZzGxo-Nk5ecm5rPzZy13oac0ZyQko-Ki5rRi5nSnJCSj4qLmtKSmouem56LntKMng.bz5Y3_LiNyifM03TIPB14Pn2U6tbgMp5gR5lIalpty7BXe1BZs2qqTLLydRLA7nGNvClyvI__9NeUdRIgsanCg"
+IAM_TOKEN = "t1.9euelZqckc2alJeczJLHk86bj4qVyO3rnpWazMjHm57Nx4ubjZuWiZOVnIzl8_ctZy1N-e9lEGcm_t3z920VK03572UQZyb-zef1656VmsuQy5aWjpeWmZDOz5iQnJya7_zF656VmsuQy5aWjpeWmZDOz5iQnJyaveuelZqLlpHOlJmWm5KSlZ2PmouZm7XehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.W3czOTA9-KLfKsMdADKJ7uSiCL67QCKSR7K5iiK8pl0B-rq7xbd0qzeFypV4YSRqK0VQBUWy6OHyyIjUjeNBAg"
 FOLDER_ID = "b1gshjrk2cqqlcr257qj"
 BOT_TOKEN = '6570865512:AAH2wn9P-e1iXg2yMG6ieAMjrKydzOUoulw'
 
