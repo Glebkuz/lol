@@ -6,7 +6,7 @@ COUNT_LAST_MSG = 4
 LOGS = f'logs.txt'  # файл для логов
 DB_FILE = f'messages.db'  # файл для базы данных
 
-IAM_TOKEN = "t1.9euelZqckc2alJeczJLHk86bj4qVyO3rnpWazMjHm57Nx4ubjZuWiZOVnIzl8_ctZy1N-e9lEGcm_t3z920VK03572UQZyb-zef1656VmsuQy5aWjpeWmZDOz5iQnJya7_zF656VmsuQy5aWjpeWmZDOz5iQnJyaveuelZqLlpHOlJmWm5KSlZ2PmouZm7XehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.W3czOTA9-KLfKsMdADKJ7uSiCL67QCKSR7K5iiK8pl0B-rq7xbd0qzeFypV4YSRqK0VQBUWy6OHyyIjUjeNBAg"
+IAM_TOKEN = "t1.9euelZqNkJaamY-OjJnNypTMm8-Qm-3rnpWazMjHm57Nx4ubjZuWiZOVnIzl8_dBRChN-e8zJWF5_d3z9wFzJU357zMlYXn9zef1656VmpbGzZaVy4rJnMicm8eWzJaa7_zF656VmpbGzZaVy4rJnMicm8eWzJaaveuelZqWjp3Gm5iMnZqJmY_Li52ezrXehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.SXMdG-q2HCi4zMjD9MCNZzQXi4wIZq89cVePXNIojzvvlRHYoyIsnip1Jwaz1A00FisnYL4Rman_U_5w70WNCg"
 FOLDER_ID = "b1gshjrk2cqqlcr257qj"
 BOT_TOKEN = '6570865512:AAH2wn9P-e1iXg2yMG6ieAMjrKydzOUoulw'
 
