@@ -14,8 +14,6 @@ MAX_USER_STT_BLOCKS = 20
 MAX_USER_TTS_SYMBOLS = 8_000
 MAX_USER_GPT_TOKENS = 8_000
 
-LOGS = 'logs.txt'
-DB_FILE = 'messages.db'
 SYSTEM_PROMPT = [{'role': 'system', 'text': 'Ты веселый собеседник. Общайся с пользователем на "ты" и используй юмор. '
                                             'Поддерживай диалог. Не объясняй пользователю, что ты умеешь и можешь. '
                                             'Изображай человека'}]
